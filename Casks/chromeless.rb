@@ -1,11 +1,11 @@
 cask "chromeless" do
-  version "4.6.0"
-  sha256 "fd9f6e5b852e5cbe1a3b7eb84c532622ee9fa7073e89e016aca2a5bc1c611b3c"
+  version "5.0.0"
+  sha256 "49cf9e6ddbe7534537a438626941f971cdd80cbdbebb7b5cd1f21db78fc782c4"
 
-  url "https://github.com/webcatalog/chromeless/releases/download/v#{version}/Chromeless-#{version}-universal.dmg"
+  url "https://github.com/jonathanpberger/chromeless/releases/download/v#{version}/Chromeless-#{version}-universal.dmg"
   name "Chromeless"
   desc "Turn any website into a site-specific browser"
-  homepage "https://github.com/webcatalog/chromeless"
+  homepage "https://github.com/jonathanpberger/chromeless"
 
   auto_updates true
 
