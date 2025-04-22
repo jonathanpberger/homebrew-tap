@@ -1,8 +1,8 @@
 cask "chromeless" do
   version "4.6.0"
-  sha256 "0fc90c25e97ffd84c7e6f2d7af52eb6ca27a4efdfc57dfc4cdce32af3d8fdbae"
+  sha256 "fd9f6e5b852e5cbe1a3b7eb84c532622ee9fa7073e89e016aca2a5bc1c611b3c"
 
-  url "https://github.com/webcatalog/chromeless/releases/download/v#{version}/Chromeless-#{version}.dmg"
+  url "https://github.com/webcatalog/chromeless/releases/download/v#{version}/Chromeless-#{version}-universal.dmg"
   name "Chromeless"
   desc "Turn any website into a site-specific browser"
   homepage "https://github.com/webcatalog/chromeless"
