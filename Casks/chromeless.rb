@@ -1,6 +1,6 @@
 cask "chromeless" do
   version "5.0.0"
-  sha256 "49cf9e6ddbe7534537a438626941f971cdd80cbdbebb7b5cd1f21db78fc782c4"
+  sha256 "ae4a6ee6be5b9107c0da6fadf212c18a323e9f996170dec476b4d06d4e586413"
 
   url "https://github.com/jonathanpberger/chromeless/releases/download/v#{version}/Chromeless-#{version}-universal.dmg"
   name "Chromeless"
